@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Atomic Habits",
+        "author": "James clear",
+        "year": 2018,
+        "genre": "Self-Improvement",
+        "read": true
+    },
+    {
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "year": 2016,
+        "genre": "Productivity",
+        "read": false
+    }
+]
